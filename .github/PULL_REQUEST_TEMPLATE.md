@@ -28,6 +28,7 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 
 ## Checklist:
 
+- [ ] I have opened my PR against the staging branch, NOT against main
 - [ ] My code follows the style guidelines of this project, formatting and lint-ing
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code, particularly in hard-to-understand areas
