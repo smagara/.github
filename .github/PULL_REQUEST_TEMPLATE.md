@@ -10,7 +10,12 @@ Please include a summary of the changes and the related issue. Please also inclu
 
 Fixes or Implements # (issue)
 
-## Type of change
+## Type of change:
+
+- [ ] Bug fix
+- [ ] Enhancement
+- [ ] DevOps
+- [ ] Other:
 
 Please check relevant options
 
@@ -29,6 +34,9 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 ## Checklist:
 
 - [ ] I have opened my PR against the staging branch, NOT against main
+- [ ] I have opened my PR against the staging branch, NOT against main
+- [ ] I have personally reviewed any AI-provided suggestions
+- [ ] I have requested a Copilot review of this PR
 - [ ] My code follows the style guidelines of this project, formatting and lint-ing
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code, particularly in hard-to-understand areas
